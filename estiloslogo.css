@@ -1,0 +1,58 @@
+html{
+	margin:0;
+	padding: 0;
+	width: 100%;
+}
+body{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-image: url(img/verde.jpg);
+	background-size: cover;
+	height: 100vh;
+	display: table;
+}
+
+
+
+
+
+.wrapper{
+	position: absolute;
+	top: 45%;
+	left:35%;
+	transform: translate(-50%, -40%);
+	width: 38%;
+
+}
+path{
+	stroke:#fff;
+	fill:#0DC143;
+	stroke-dasharray: 1800;
+	opacity: 10;
+	animation: animate 2s cubic-bezier(0,.23,1,.1);
+
+}
+@keyframes animate{
+	0%{
+		opacity: 0;
+		fill: none;
+		stroke-dashoffset:1800; 
+	}
+30%{
+	opacity: 0;
+	fill: none;
+	stroke-dashoffset:1800; 
+}
+90%{
+
+		fill: rgba(255, 255,255, 0);
+	}
+	100%{
+		opacity: 10;
+		fill: rgba(255, 255,255, 0);
+		stroke-dashoffset:0; 
+	}	
+
+
+}

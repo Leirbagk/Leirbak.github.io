@@ -1,0 +1,145 @@
+*{
+	margin:0;
+	padding-top: 0;
+	box-sizing: border-box;
+
+	
+
+}
+body{
+	background-color: #7CC23B; 
+	background-size: cover;
+}
+/*----- atributos del contenedor wrap de las tajetas*/
+h2{
+	
+	color: #0DC143; 
+}
+
+
+.wrap-recetas{
+	width: 1100px;
+	margin:50px auto;
+	display: flex;
+	justify-content: center;
+ /*//efecto para poner las tarjetas una debajo de otra*/
+	        flex-wrap: wrap;
+
+
+
+}
+.tarjeta-wrap{
+	margin:10px;
+	-webkit-perspective: 800;
+	perspective: 800; 
+
+
+	
+}
+.tarjeta{
+	width: 300px;
+	height: 350px;
+	background: white;
+	position: relative;
+	transform-style: preserve-3d;
+	transition: .7s ease;
+	-webkit-box-shadow: 0px 10px 15px -5px rgba(0,0,0,0.65);
+	box-shadow: 0px 10px 15px -5px rgba(0,0,0,0.65);
+
+
+
+}
+/*con el backface se oculta el cntenido de la tarjeta, atributos de tarjetas texto atras y img adelante*/
+.adelante, .trasera{
+width: 100%;
+height: 100%;
+position: absolute;
+top:0;
+left: 0;
+backface-visibility: hidden;
+-webkit-backface-visibility: hidden;
+
+}
+/*rotacion de la parte trasera de la tarjeta*/
+.adelante{
+	width: 100%;
+}
+.trasera{
+	transform: rotateY(180deg);
+	-webkit-transform:rotatey(180deg);
+	padding:15px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	text-align: center;
+	color: #fff;
+	font-family: "open sans";
+
+}
+
+.tarjeta-wrap:hover .tarjeta{
+	transform: rotateY(180deg);
+
+}
+.card1{
+	background-image: url(fondos/14-razones-por-las-que-deberiamos-empezar-a-tomar-aceite-de-oliva.jpg); 
+	
+	background-size: 100% 100% ;
+
+
+	}
+.card2{
+	background-image: url(fondos/Biocombustibles.jpg);
+	background-size: 100% 100%;
+	
+}
+.card3{
+	background-image: url(fondos/Biodiesel-biodiesel-35946440-2288-1712.jpg);
+	background-size: 100% 100%;
+}
+.card4{
+	background-image: url(fondos/Biodiesel.jpg);
+	background-size: 100% 100%;
+}
+.card5{
+	background-image: url(fondos/);
+	background-size: 100% 100%;
+}
+.card6{
+	background-image: url(fondos/);
+	background-size: 100% 100%;
+}
+
+
+
+h1{
+text-align: center;
+  color: #ddd;
+  text-transform: uppercase;
+  font-size: 30px;
+  padding-top: 30px;
+
+}
+h3{
+	font-size: 30px;
+	text-align:center;
+	color:#0e0d0e;
+}
+p{
+	color:black;
+}
+input[type="submit"] {
+  position: absolute;
+  border: none;
+  outline: none;
+  height: 40px;
+  background: #0DC143;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor:pointer;
+  right: 10px;
+
+
+}

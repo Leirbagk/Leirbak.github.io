@@ -1,0 +1,115 @@
+.menuart{z-index: 1;
+	font-family: 'lobster', cursive;
+	font-size: 20px;
+	width:6.5rem;
+	height: 3.5rem;
+	background: white;
+	border-radius: 7px;
+	position: absolute;
+	top:50%;
+	left:0%; /*posicion de la pestaña de que es biodiesel z index:0;*/
+	text-align: center;
+	transition: left 0.7s;
+
+}
+.checkbox:checked ~ .menuart {
+  z-index: 1;
+
+
+    left: 30%;
+    border-radius: 0 0.5rem 0.5rem 0;
+}
+.left-panel {
+  z-index: 1;
+    width: 30%;
+    height: 100%;
+    /*safari*/
+    /*background:  -webkit-linear-gradient(#54BBC7, #2EE3AD, #9191f2);
+    /*opera*/
+    /*background: -o-linear-gradient(#54BBC7, #2EE3AD, #9191f2);
+    /*estandar*/
+    /*background: linear-gradient(#54BBC7, #2EE3AD, #9191f2);*/
+    background: url(img/verde.jpg);
+    position: absolute;
+    top: 0;
+    left: -40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: left 0.4s;
+}
+
+.checkbox:checked ~ .left-panel {
+    left: 0;
+}
+
+.checkbox {
+    display: none;
+    
+}
+
+ul a {
+    color: #191717;
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 0 0.5rem;
+    margin: 1rem 0;
+}
+
+li:hover {
+    color: white;
+    border:dashed; 
+    border-width: 0 0.1rem;
+}
+
+
+
+/*este no esta habilitado*/
+
+main{
+
+ 
+}
+
+.fixed{
+  position: flex;
+  width: 20%;
+
+}
+div#menu{
+ 
+  width: 200px;
+  margin-top: 50px;
+
+}
+div#menu ul{
+  list-style:none;
+
+  
+}
+div#menu ul li{
+  margin-top: 15px;
+  font-family: arial;
+  font-size: 18px;
+  background-color: #69C269;
+  width: 190px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 0px 20px 20px 0px;
+  padding-left: 20px;
+  box-shadow: 10px 0px 10px #939393;
+  -webkit-transition: padding-left 0.3s;
+  color:black;
+  text-align:justify;
+  
+}
+div#menu ul li:hover{
+  padding-left: 50px;
+
+
+}
