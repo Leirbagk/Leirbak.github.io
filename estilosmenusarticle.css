@@ -1,14 +1,14 @@
 .menuart{z-index: 1;
 	font-family: 'lobster', cursive;
-	font-size: 20px;
-	width:6.5rem;
+	font-size: 15px;
+	width:6.4rem;
 	height: 3.5rem;
 	background: white;
 	border-radius: 7px;
 	position: absolute;
 	top:50%;
 	left:0%; /*posicion de la pestaña de que es biodiesel z index:0;*/
-	text-align: center;
+	text-align: left;
 	transition: left 0.7s;
 
 }
