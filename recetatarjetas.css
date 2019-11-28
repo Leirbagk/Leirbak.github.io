@@ -83,14 +83,14 @@ backface-visibility: hidden;
 
 }
 .card1{
-	background-image: url(fondos/14-razones-por-las-que-deberiamos-empezar-a-tomar-aceite-de-oliva.jpg); 
+	background-image: url(fondos/soyaa2.jpg); 
 	
 	background-size: 100% 100% ;
 
 
 	}
 .card2{
-	background-image: url(fondos/Biocombustibles.jpg);
+	background-image: url(fondos/canola2.jpg);
 	background-size: 100% 100%;
 	
 }
@@ -99,15 +99,15 @@ backface-visibility: hidden;
 	background-size: 100% 100%;
 }
 .card4{
-	background-image: url(fondos/Biodiesel.jpg);
+	background-image: url(fondos/coco.png);
 	background-size: 100% 100%;
 }
 .card5{
-	background-image: url(fondos/);
+	background-image: url(fondos/aceite-de-palma2.jpg);
 	background-size: 100% 100%;
 }
 .card6{
-	background-image: url(fondos/);
+	background-image: url(fondos/jatropha.jpg);
 	background-size: 100% 100%;
 }
 
@@ -139,7 +139,7 @@ input[type="submit"] {
   font-size: 18px;
   border-radius: 10px;
   cursor:pointer;
-  right: 10px;
+  left: 35px;
 
 
 }

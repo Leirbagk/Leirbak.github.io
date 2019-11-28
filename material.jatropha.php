@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="img/elements/fav.png">
+		<!-- Author Meta -->
+		<meta name="author" content="CodePixar">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>Biodiesel a base de Jatropha</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="css/linearicons.css">
+			<link rel="stylesheet" href="css/owl.carousel.css">
+			<link rel="stylesheet" href="css/font-awesome.min.css">
+			<link rel="stylesheet" href="css/nice-select.css">			
+			<link rel="stylesheet" href="css/magnific-popup.css">
+			<link rel="stylesheet" href="css/bootstrap.css">
+			<link rel="stylesheet" href="css/main.css">
+
+
+
+		</head>
+		<body>
+
+			<!-- Start Header Area -->
+			<header class="default-header">
+				<nav class="navbar navbar-expand-lg  navbar-light">
+					<div class="container">
+						  <a class="navbar-brand" href="index.php">
+						  	<img src="img/LOGOSAEBAC2.png" alt="">
+						  </a>
+						  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						    <span class="navbar-toggler-icon"></span>
+						  </button>
+
+						  <div class="collapse navbar-collapse justify-content-end align-items-center" id="navbarSupportedContent">
+						    <ul class="navbar-nav">
+								<li><a href="#home">Preparando</a></li>
+								<li><a href="#methodd">Instrucciones</a></li>
+								<!--<li><a href="#project">Evidencia</a></li>-->
+								
+								<!--<li><a href="#blog">blog</a></li>-->
+								<li><a href="#team">Reactivos</a></li>
+								<li><a href="contenidoreceta.php">Regresar</a></li>
+							   <!-- Dropdown 
+							    <li class="dropdown">
+							      <a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+							        Pages
+							      </a>
+							      <div class="dropdown-menu">
+							        <a class="dropdown-item" href="generic.html">Generic</a>
+							        <a class="dropdown-item" href="elements.html">Elements</a>
+							      </div>
+							    </li>-->									
+						    </ul>
+						  </div>						
+					</div>
+				</nav>
+			</header>
+			<!-- End Header Area -->
+				<!-- Start banner Area -->
+			<section class="generic-banner relative" id="home">		
+				<div class="container">
+					<div class="row height align-items-center justify-content-center">
+						<div class="col-lg-8">
+							<div class="generic-banner-content">
+								<h2 class="text-white">Materiales</h2>
+								
+		
+
+				<div align="center">
+					<img src="tablas/tabla6.png" alt="" width="600" 
+                        height="460">
+
+				</div>
+
+
+							</div>							
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- End banner Area -->
+		
+		<!-- About Generic Start -->
+		<div class="main-wrapper">
+
+			<!-- Start team Area -->
+			<section class="team-area section-gap" id="team">
+				
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-20 col-lg-3">
+							<div class="title text-center">
+								<h1 class="mb-3" >Reactivos</h1>
+<ul class="list-group"  >
+  <li class="list-group-item list-group-item-success">
+250 ml de aceite de palma</li>
+  <li class="list-group-item list-group-item-secondary">200 ml de aceite de soja</li>
+  <li class="list-group-item list-group-item-info">61.7 ml de metanol</li>
+  <li class="list-group-item list-group-item-warning">2.1 g de NaOH (Hidróxido de sodio)</li>
+  <li class="list-group-item list-group-item-info">3.2 ml de H2SO4 (Ácido sulfúrico)</li>
+  <li class="list-group-item list-group-item-light">1.3 ml de C2H4O2 (Ácido acético o vinagre)</li>
+  <li class="list-group-item list-group-item-dark">Agua des ionizada cantidad necesaria</li>
+  
+  
+</ul>
+
+
+
+	
+
+
+
+
+
+
+
+            
+							</div>
+						</div>
+					</div>						
+					<div class="row justify-content-center d-flex align-items-center">
+						<div class="col-md-3 single-team">
+						    <div class="thumb">
+						        <img class="img-fluid" src="tablas/4.jpeg" alt="">
+						        <div class="align-items-center justify-content-center d-flex">
+									<a href="#"><i class=""></i></a>
+									
+						        </div>
+						    </div>
+						    <div class="meta-text mt-30 text-center">
+							    <h4>Ejemplos de elaboración</h4>
+							    <p></p>									    	
+						    </div>
+						</div>
+						<div class="col-md-3 single-team">
+						    <div class="thumb">
+						        <img class="img-fluid" src="tablas/10.jpeg" alt="">
+						        <div class="align-items-center justify-content-center d-flex">
+									
+						        </div>
+						    </div>
+						    <div class="meta-text mt-30 text-center">
+							    <h4>Ejemplos de elaboración</h4>
+							    <p></p>			    	
+						    </div>
+						</div>	
+						<div class="col-md-3 single-team">
+						    <div class="thumb">
+						        <img class="img-fluid" src="tablas/11.jpeg" alt="">
+						        <div class="align-items-center justify-content-center d-flex">
+									
+						        </div>
+						    </div>
+						    <div class="meta-text mt-30 text-center">
+							    <h4>Ejemplos de elaboración</h4>
+							    <p></p>			    	
+						    </div>
+						</div>	
+						<div class="col-md-3 single-team">
+						    <div class="thumb">
+						        <img class="img-fluid" src="tablas/12.jpeg" alt="">
+						        <div class="align-items-center justify-content-center d-flex">
+									
+						        </div>
+						    </div>
+						    <div class="meta-text mt-30 text-center">
+							    <h4>Ejemplos de elaboración</h4>
+							    <p></p>			    	
+						    </div>
+						</div>																									
+				
+					</div>
+				</div>	
+			</section>
+			<!-- End team Area -->
+			
+			<!-- Start Generic Area -->
+			<section class="about-generic-area section-gap" id="methodd">
+				<div class="container border-top-generic">
+					<h3 class="about-title mb-30" id="method">Metodologia</h3>
+					<div class="row">
+						<div class="col-md-12">
+							<div class="img-text">
+								<img src="tablas/tumblr_livkou753t1qzk2tbo1_500.gif" alt="" class="img-fluid float-left mr-20 mb-20">
+1.	Medir en una probeta de 250 ml, 200 ml de aceite de soja y posteriormente depositarlo en el matraz de 3 vías, en una de las entradas se conectará el refrigerante que estará sostenido con una pinza de 3 vías a un soporte universal y en la otra entrada se conectará el termometro con ayuda de un tapón de hule, la otra entrada la tendremos solo con un tapón para la adición de los demás reactivos.
+<br>2.	El equipo debe ser montado cerca de la parrilla de calentamiento, para que el aceite se empiece a calentar a una temperatura de 50 °C, es importante que desde este punto el refrigerante esté conectado a las vías de flujo de agua y empiece a recircular por ella desde el momento que comienza a calentarse el aceite, ya que evita que los gases que se produzcan durante el calentamiento salgan a la atmosfera. 
+<br> 3.	Mientras el aceite se calienta, procederemos a preparar el mezclado del catalizador con el alcohol. Se miden los volúmenes establecidos para el etanol y H2SO4, luego se adiciona en proporciones de 3 ml, con ayuda de una pipeta, de ácido al alcohol hasta completar la medida establecida. La disolución del ácido sobre el alcohol debe ser con una agitación lenta y controlada teniendo en cuenta que este proceso genera una reacción muy exotérmica en algunos casos si se agrega demasiada cantidad de ácido el alcohol no puede absorber el calor produciendo una reacción muy violenta (Ebullición instantánea y repentina del ácido) dando lugar a salpicaduras violentas.
+
+
+							</div>
+
+						</div>
+						
+						</div>
+
+						<div class="col-lg-12">
+							<p>4.Al matraz con el aceite agregaremos un agitador magnético y añadiremos la sustancia preparada anteriormente, es importante que el aceite no sobrepase los 50°C, pues la reacción se volvería violenta. Cuando se termina de añadir la solución alcohol-catalizador, llevamos a agitación a 200 RPM durante 60 minutos.
+<br> 5.	 Terminada la reacción la sustancia se pasa a un embudo de separación y se deja reposar por al menos 12 horas para tener seguridad en la separación de fases.
+<br>6.	Se prepara el mezclado de alcohol-catalizador homogéneo básico, se mide la cantidad de alcohol en un vaso de precipitado, y se pesa en un vidrio de reloj el NaOH, para el pesado de este reactivo es importante utilizar guantes, ya que es una base corrosiva. Una vez teniendo las cantidades que se requieren, se deposita el NaOH en el alcohol y se lleva a agitación, este paso se puede hacer con una varilla de vidrio y mezclando hasta que todo el NaOH se haya disuelto en el alcohol.
+
+</p>
+
+						</div>
+						<div class="col-lg-12">
+							<div class="img-text">
+								<img src="tablas/ajtro.jpg" alt="" class="img-fluid float-left mr-20 mb-20">
+							<p>7.	Se repetirá el montado de equipo, pero esta vez tendrá 200 ml de la fase esterificada que se obtiene del paso anterior, esta fase tiene un color ámbar que es fácil de identificar, y se llevara a calentamiento a las mismas condiciones de la primera parte del proceso.
+<br>8.	Una vez que el líquido alcanzo la temperatura de 65°C se le añade el mezclado de alcohol-catalizador y se lleva a agitación a 200 RPM durante 2 horas.
+<br>9.	Luego se le agrega la proporción indicada de ácido acético para neutralizar la reacción. Esto se deja reposar por 15 minutos sin agitación y sin calor.
+<br>10.	Nuevamente se lleva a un embudo de separación y se deja nuevamente por 12 horas para garantizar la separación de fases.
+<br>11.	Después de realizar la separación de las fases, el biodiesel debe lavarse para purificarse y alcanzar la mayor concentración de etil ésteres. El lavado tiene la función de eliminar trazas de glicerol, catalizador, alcohol, jabones o gomas que pueden no haber reaccionado, este proceso se debe efectuar hasta lograr neutralizar. Un lavado se realiza con agua a 45 °C, el volumen que se emplea de agua es la tercera parte del volumen de biodiesel obtenido. El volumen de agua empleado se dividió efectuando tres lavados. Un aspecto importante es que la vertida del agua en el biodiesel debe ser lento para que puede tener un contacto homogéneo con todo el biocombustible y así pueda arrastrar al fondo del balón las trazas de las impurezas, posteriormente se dejara separar las fases por lo cual no se puede establecer un tiempo; este proceso se repite tres veces.
+<br> 12.	El otro lavado efectuado a algunos de los ensayos fue con ácido acético, el volumen del agente de lavado se utilizó en dos lavados y posteriormente se efectuó un tercer lavado con agua des ionizada. En cada lavado se debe dejar un tiempo aproximado de 12 h, para dejar separar las fases y después se extrae el agente de lavado, obteniendo así el biodiesel. 
+ 
+</p></div>
+						</div>
+						<div class="col-md-10">
+							<div class="img-text">
+								<img src="tablas/jatr.jpg"  width="260" 
+                        height="300"alt="" class="img-fluid float-left mr-30 mb-30"> <h1>Analisis de resultado</h1>
+								<p>El biodiesel obtenido o producido es un líquido claro, parecido al aceite. La obtención de biodiesel en 2 etapas, este proceso conlleva una previa esterificación con H2SO4, para reducir el valor de acidez o el contenido de ácidos grasos libres y de ésta forma la conversión biodiesel sea mayor, el rendimiento obtenido de biodiesel en la segunda etapa fue de 90%, un 22% más que en la transesterificación directa. 
+
+
+</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- End Generic Start -->		
+
+
+			<!-- start service Area-->
+			<section class="service-area pb-100" id="service">
+				<div class="container">
+					<div class="row">
+						<div class="sigle-service col-lg-3 col-md-6">
+							<span class="lnr lnr-drop"></span>
+							<h4>Transesterificación y Biodiesel</h4>
+							<p style="text-align: justify;">
+								
+							</p>
+							<!--<a href="#" class="text-uppercase primary-btn2 primary-border circle">Ver detalles</a>-->
+						</div>
+						<div class="sigle-service col-lg-3 col-md-6">
+							<span class="lnr lnr-dice"></span>
+							<h4>Materiales</h4>
+							<p style="text-align: justify;">
+								
+							</p>
+							<a href="material.jatropha.php" class="text-uppercase primary-btn2 primary-border circle">Ver detalles</a>
+						</div>
+						<div class="sigle-service col-lg-3 col-md-6">
+							<span class="lnr lnr-menu"></span>
+							<h4>Metodo</h4>
+							<p>
+								
+							</p>
+							<a href="#method" class="text-uppercase primary-btn2 primary-border circle">Ver detalles</a>
+						</div>
+						<div class="sigle-service col-lg-3 col-md-6">
+							<span class="lnr lnr-book"></span>
+							<h4>Referencias</h4>
+							<p>
+								
+							</p>
+							<a href="#" class="text-uppercase primary-btn2 primary-border circle">Ver detalles</a>
+						</div>																		
+
+					</div>
+				</div>	
+																						
+
+					
+				</div>	
+			</section>
+			<!-- end service Area-->
+
+
+			<!-- start footer Area -->		
+			<footer class="footer-area section-gap">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-3  col-md-12">
+							<div class="single-footer-widget">
+								<h6>Otras elaboraciones</h6>
+								<ul class="footer-nav">
+									<li><a href="#">Biodiesel 1</a></li>
+									<li><a href="#">Biodiesel 2</a></li>
+									<li><a href="#">Biodiesel 3</a></li>
+									<li><a href="#">Biodiesel 4</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="col-lg-6  col-md-12">
+							<div class="single-footer-widget newsletter">
+								<h6>Precaución</h6>
+								<p>Este software y los desarrolladores no se hacen responsable del mal uso de los materiales empleados en cada formulacion del biodiesel. Sin otro aviso disfrute y diviertase aprendiendo facilmente.</p>
+								<div id="mc_embed_signup">
+									<h6>Necesitas ayuda?</h6>
+									<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
+
+										<div class="form-group row" style="width: 100%">
+											<div class="col-lg-8 col-md-12">
+												<input name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '" required="" type="email">
+												<div style="position: absolute; left: -5000px;">
+													<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
+												</div>
+											</div> 
+										
+											<div class="col-lg-4 col-md-12">
+												<button class="nw-btn primary-btn">Enviar correo<span class="lnr lnr-arrow-right"></span></button>
+											</div> 
+										</div>		
+										<div class="info"></div>
+									</form>
+								</div>		
+							</div>
+						</div>
+						<!--<div class="col-lg-3  col-md-12">
+							<div class="single-footer-widget mail-chimp">
+								<h6 class="mb-20">Instragram Feed</h6>
+								<ul class="instafeed d-flex flex-wrap">
+									<li><img src="img/i1.jpg" alt=""></li>
+									<li><img src="img/i2.jpg" alt=""></li>
+									<li><img src="img/i3.jpg" alt=""></li>
+									<li><img src="img/i4.jpg" alt=""></li>
+									<li><img src="img/i5.jpg" alt=""></li>
+									<li><img src="img/i6.jpg" alt=""></li>
+									<li><img src="img/i7.jpg" alt=""></li>
+									<li><img src="img/i8.jpg" alt=""></li>
+								</ul>
+							</div>
+						</div>						
+					</div>-->
+
+					<div class="row footer-bottom d-flex justify-content-between">
+						<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            <p class="col-lg-8 col-sm-12 footer-text m-0 text-white">Implementando innovaciones &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This page is made for <i class="lnr lnr-user" aria-hidden="true"></i> by <a href="https://www.facebook.com/Gabriel.Lopez.Cruz052296" target="_blank">Leirbag</a></p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+						<div class="col-lg-4 col-sm-12 footer-social">
+							<a href="https://www.facebook.com/Gabriel.Lopez.Cruz052296"><i class="fa fa-facebook"></i></a>
+							<!--<a href="#"><i class="fa fa-twitter"></i></a>
+							<a href="#"><i class="fa fa-dribbble"></i></a>-->
+							<a href="#"><i class="fa fa-envelope-o"></i></a>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<!-- End footer Area -->	
+
+
+		<script src="js/vendor/jquery-2.2.4.min.js"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+		<script src="js/vendor/bootstrap.min.js"></script>
+		<script src="js/jquery.ajaxchimp.min.js"></script>
+		<script src="js/jquery.sticky.js"></script>
+		<script src="js/owl.carousel.min.js"></script>
+		<script src="js/jquery.nice-select.min.js"></script>
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/jquery.DonutWidget.min.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>
